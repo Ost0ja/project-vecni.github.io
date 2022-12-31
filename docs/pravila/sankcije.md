@@ -3,9 +3,9 @@ title: Sankcije
 sidebar_position: 1
 ---
 
-## Sankcije
-
 ### Mjere su podležne promjenama u zavisnosti od situacije i ponašanja igrača
+
+## Kršenje Pravila (Markeri)
 
 - MG - 100-150
 - PG - 50-100
@@ -31,3 +31,6 @@ sidebar_position: 1
 - TOXIC / VRIJEĐANJE - 300/BAN
 - NEPOŠTIVANJE STAFFA - brisanje inventorya/ban
 - RANDOM LOOT - brisanje inventorya
+
+## In-Game Prekršaji (Minute)
+
