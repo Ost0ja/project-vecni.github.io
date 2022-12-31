@@ -3,8 +3,6 @@ title: Pravila Servera
 sidebar_position: 0
 ---
 
-a
-
 ## Pravila Servera
 ### Generalno
 - Zabranjeno vrijeđanje na bilo kakvoj osnovi (Porodičnoj, Vjerskoj, Nacionalnoj, Polnoj)
