@@ -25,7 +25,7 @@ sidebar_position: 4
 - Ukoliko se desi kidnapovanje između dve mafije, mafija čiji je člann otet su dužni da ispune sve uslove u suprotnom će rezultirati minusom (2 minusa skidanje org)
 - Ukoliko se desi da je član LSPD otet, policija je dužna da ispuni sve uslove u suprotonm odgovorni pregovarač dobija minus koji rezultije izbacivanjem iz LSPD(2 minusa otkaz)  Suđenje za ubojstvo možda ??
 
-## KIDNAPOVANJE TAOCA (OVO ZA PLJAČKE?)
+## KIDNAPOVANJE TAOCA (VEZANO ZA PLJAČKE)
 - Otmičari su dužni da se brinu o taocu
 - Ukoliko LSPD ne ispuni zahteve otimčara i taoc nastrada, LSPD je dužan da se povuće sa pljače a licu koje je pregovaralo će se suditi
 - LSPD ima pravo da blefira izvršetak uslova na SVOJU odgovornost
