@@ -38,7 +38,6 @@ sidebar_position: 1
 - Pljačka Prodavnice - 25 min
 - Pljačka Zlatare = 30 min
 - Pljačka Sporedne Banke - 40 min
-
 - Posjedovanje pištolja bez dozvole - 15-30 min
 - Posjedovanje velikog kalibra - 30-45 min
 - Posjedovanje ilegalnih substanci - 1 komad = 2 min (ispod 5 kom je novčana kazna od 5000$)
