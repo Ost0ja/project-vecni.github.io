@@ -9,7 +9,7 @@ sidebar_position: 0
 - Bug abuse je strogo zabranjen
 - Skokovi vozilima su dozvoljeni isključivo u pljačkama
 - Zabranjeno spominanje/reklamiranje drugih "gradova"
-- Nije dozvoljeno ubijati ili kidnapovati bolničare i mehaničare (Više o pravilu)
+- Nije dozvoljeno ubijati ili kidnapovati bolničare i mehaničare
 - Roleplay zlostavljanja/pedofilija, kanibala, kamikaza, psihopata, serijski ubica je zabranjen
 - Zabranjen Roleplay istorijskih ličnosti
 - Zabranjeno neadekvatno oblačenje/kreiranje fikcionih karaktera (vanezanljac i sl.)
@@ -21,7 +21,7 @@ sidebar_position: 0
 - Zabranjeno napuštanje karaktera, izuzev admin situacije
 - U slučaju faila NE SMIJETE prekinuti Roleplay, kada se Roleplay završi pozovite admina (dužni ste imati snimak) te će vam se šteta nadoknadii
 - U slučaju kršenja prometnih znakova/pravila policija ima pravo zaustaviti vas
-- Zabranjeno bježanje od policije ako nemata ništa ilegalno kod sebe (Više o pravilu)
+- Zabranjeno bježanje od policije ako nemata ništa ilegalno kod sebe
 - Zabranjeno oduzimanje hrane, vode, dokumenata
 - Zabranjeno abusanje animacija
 - Zabranjeno pretraživanje, vezanje sa oružijem osim pištolja
