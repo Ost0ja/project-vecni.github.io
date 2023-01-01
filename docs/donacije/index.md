@@ -8,3 +8,4 @@ sidebar_position: 0
 - Zabranjeno je donirati za In-Game novac
 - Zabranjeno je preprodavanje donacija za stvaran novac
 - **Za cijenu svega se dogovarate u tiketu**
+- TEST
