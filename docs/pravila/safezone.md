@@ -8,7 +8,9 @@ sidebar_position: 2
 ## Pravila Safe Zoni
 Safe Zone na serveru su:
 * Bolnica
+* Policija
 
+![police]
 ![bolnica](https://cdn.discordapp.com/attachments/857252871530348567/1058216377636364348/Screenshot_3.png)
 
 - U Safe Zoni nije dozvoljeno sljedeće:
